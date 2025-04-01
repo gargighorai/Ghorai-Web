@@ -192,11 +192,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 hr {
-border: 1px solid rgb(236, 210, 177);
+border: 1px solid red;
 width:100vw;
 height: 1px;
 color: white;
-border-width:1px;
+border-width:11px;
 }
 footer{
 background-color: rgba(46, 89, 149, 1);
